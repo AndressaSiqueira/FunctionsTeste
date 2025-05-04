@@ -1,8 +1,7 @@
 import os
 import requests
 import logging
-import azure.functions as func
-
+import azure.functionssssss as func
 def main(req: func.HttpRequest) -> func.HttpResponse:
     try:
         # Obtendo a URL do documento através dos parâmetros da requisição HTTP
